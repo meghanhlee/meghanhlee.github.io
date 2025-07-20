@@ -10,4 +10,4 @@ nav_order: 2
 Publications:
 
 1. Amsberry, Kieran; Bergquist, August; Horstkamp, Thomas; Lee, Meghan; Yetter, David. Complementation of subquandles. Involve 18 (2025), no. 3, 417--435.
-  [(journal)](https://msp.org/involve/2025/18-3/involve-v18-n3-p03-s.pdf) [(arXiv)]([https://msp.org/involve/2025/18-3/involve-v18-n3-p03-s.pdf](https://arxiv.org/abs/2304.09747))
+  [(journal)](https://msp.org/involve/2025/18-3/involve-v18-n3-p03-s.pdf) [(arXiv)](https://arxiv.org/abs/2304.09747)
