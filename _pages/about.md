@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: (she/her/hers) <a href='#'>Affiliations</a>
+subtitle: (she/her/hers) <a href='#'>meghanlee@ucsb.edu</a>
 
 profile:
   align: right
