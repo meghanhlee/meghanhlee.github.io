@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: (she/her/hers)    <meghanlee@ucsb.edu>
+subtitle: (she/her/hers)   [meghanlee@ucsb.edu](mailto:meghanlee@ucsb.edu)
 
 profile:
   align: right
