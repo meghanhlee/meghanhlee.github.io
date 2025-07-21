@@ -6,7 +6,7 @@ subtitle: (she/her/hers)    <meghanlee@ucsb.edu>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_2720.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>UC Santa Barbara</p>
