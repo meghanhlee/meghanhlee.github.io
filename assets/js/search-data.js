@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Here is a list of classes I have helped with at Wake Forest University and Occidental College.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
