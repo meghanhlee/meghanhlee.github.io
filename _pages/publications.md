@@ -9,7 +9,7 @@ nav_order: 2
 
 Research papers:
 
-2. Lee, Meghan. *An algorithm for isolated j-invariants arising from the modular curve X_0(n).* [(arXiv)]([https://drive.google.com/file/d/1gGI4_JPJueaRvn_K2DodCv1Qt97zFdYs/view](https://arxiv.org/abs/2507.19462)) [(Magma code)](https://github.com/meghanhlee/NonIsolated)
+2. Lee, Meghan. *An algorithm for isolated j-invariants arising from the modular curve X_0(n).* [(arXiv)]([https://arxiv.org/abs/2507.19462) [(Magma code)](https://github.com/meghanhlee/NonIsolated)
 
 1. Amsberry, Kieran; Bergquist, August; Horstkamp, Thomas; Lee, Meghan; Yetter, David. *Complementation of subquandles.* Involve 18 (2025), no. 3, 417--435.
   [(journal)](https://msp.org/involve/2025/18-3/involve-v18-n3-p03-s.pdf) [(arXiv)](https://arxiv.org/abs/2304.09747)
