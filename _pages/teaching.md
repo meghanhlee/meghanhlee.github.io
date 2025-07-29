@@ -9,6 +9,7 @@ nav_order: 5
 
 **Wake Forest University**
 Research Training Program Project Leader 
+
 Developed and led an exploratory research project on tilings for two early undergraduate students (Spring 2024) 
 
 Teaching Assistant
@@ -21,7 +22,7 @@ Teaching Assistant
 - Math 106: Calculus Foundations (Fall 2023) 
 
 Recitation Leader
-*Math 111: Calculus with Analytic Geometry I (Fall 2023, Spring 2024, Spring 2025) 
+- Math 111: Calculus with Analytic Geometry I (Fall 2023, Spring 2024, Spring 2025) 
 
 Math and Stats Center Tutor
 One-on-one tutoring appointments with students in precalculus, differential and integral calculus, linear algebra, discrete math, number theory, undergraduate & graduate algebra, and graduate topology
