@@ -2,14 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Here is a list of classes I have helped with at Wake Forest University and Occidental College.
+description: Here is a list of classes I have helped with, and students I have mentored, at Wake Forest University and Occidental College.
 nav: true
 nav_order: 5
 ---
 
-**Wake Forest University**
-Research Training Program Project Leader 
-- Developed and led an exploratory research project on tilings for two early undergraduate students (Spring 2024) 
+**Wake Forest University** 
+
+Mentorship 
+- Spring 2024: Bella Coughlin and Anita Xu, project on tilings for Math 191: Research Explorations in Mathematics [(presentation)](https://drive.google.com/file/d/1Uh9K0e7c6lg2cTRAZGbZ7w5OmFJjMvp2/view?usp=sharing)
 
 Teaching Assistant
 - Math 345: Elementary Number Theory (Spring 2025) 
