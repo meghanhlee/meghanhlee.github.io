@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Here is a list of classes I have helped with at Wake Forest University and Occidental College.",
+          description: "Here is a list of classes I have helped with, and students I have mentored, at Wake Forest University and Occidental College.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
