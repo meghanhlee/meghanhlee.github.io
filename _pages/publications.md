@@ -10,10 +10,10 @@ nav_order: 2
 Research papers:
 
 2. Lee, Meghan. *Isolated j-invariants arising from the modular curve X_0(n).* 
-&emsp;- [(arXiv)](https://doi.org/10.48550/arXiv.2507.19462) [(Magma code)](https://github.com/meghanhlee/NonIsolated)
+&nbsp;- [(arXiv)](https://doi.org/10.48550/arXiv.2507.19462) [(Magma code)](https://github.com/meghanhlee/NonIsolated)
 
-1. *Complementation of subquandles*, with Kieran Amsberry, August Bergquist, Thomas Horstkamp, and David Yetter. Involve 18 (2025), no. 3, 417--435.
-&emsp;- [(journal)](https://msp.org/involve/2025/18-3/involve-v18-n3-p03-s.pdf) [(arXiv)](https://arxiv.org/abs/2304.09747)
+1. *Complementation of subquandles*, with Kieran Amsberry, August Bergquist, Thomas Horstkamp, and David Yetter. Involve 18 (2025), no. 3, 417--435. 
+&nbsp;- [(journal)](https://msp.org/involve/2025/18-3/involve-v18-n3-p03-s.pdf) [(arXiv)](https://arxiv.org/abs/2304.09747)
 
 Thesis work:
 
