@@ -14,7 +14,7 @@ profile:
 
 ---
 
-My name is Meghan and in Fall 2025, I will begin a PhD in Mathematics at UC Santa Barbara, where I'll be supported by the Eugene Cota-Robles Fellowship. My research interests are in arithmetic and algebraic geometry.
+My name is Meghan and in Fall 2025, I will begin a PhD in Mathematics at UC Santa Barbara, where I'll be supported by the Eugene Cota-Robles Fellowship. My research interests are in arithmetic and algebraic geometry. Other long-term interests of mine are in low-dimensional topology and computational algebra.
 
 In Spring 2025, I graduated from the master's program at Wake Forest University, where I was advised by [Abbey Bourdon](https://users.wfu.edu/bourdoam/). Through my thesis work, I worked toward a classification of j-invariants which arise from an isolated point on the modular curve X_0(n).
 
