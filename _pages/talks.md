@@ -16,3 +16,15 @@ nav_order: 6
 - **25th Nebraska Conference for Undergraduate Women in Mathematics (NCUWM)** <br/> Lincoln, NE (1/21/23) <br/> *Complementation of subquandles* - Talk <br/> University of Nebraska-Lincoln
 - **Joint Math Meetings (JMM) 2023** <br/> Boston, MA (1/4/23-1/7/23) <br/> *Complementation of subquandles* - Poster <br/> Pi Mu Epsilon Undergraduate Poster Session
 - **Kansas State University REU Closing Conference** <br/> Manhattan, KS (8/5/22) <br/> *Subquandle lattices* - Talk <br/> Kansas State University
+
+#### Colloquiua
+- *Master's thesis defense: Isolated j-invariants arising from the modular curve X_0(n)*, Wake Forest University. 4/11/25
+- *Benedict Freedman award reception: Quandle constructions and examples*, Occidental College. 5/1/23
+- *Senior honors thesis: The fundamental group and Van Kampen Theorem*, Occidental College. 3/22/23
+- *Complementation of subquandles: An introduction to undergraduate math research*, Occidental College. 2/10/23
+
+
+
+
+
+
