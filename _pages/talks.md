@@ -18,10 +18,10 @@ nav_order: 6
 - **Kansas State University REU Closing Conference** <br/> Manhattan, KS (8/5/22) <br/> *Subquandle lattices* - Talk <br/> Kansas State University
 
 #### Colloquiua
-- *Master's thesis defense: Isolated j-invariants arising from the modular curve X_0(n)*, Wake Forest University. 4/11/25
-- *Benedict Freedman award reception: Quandle constructions and examples*, Occidental College. 5/1/23
-- *Senior honors thesis: The fundamental group and Van Kampen Theorem*, Occidental College. 3/22/23
-- *Complementation of subquandles: An introduction to undergraduate math research*, Occidental College. 2/10/23
+- *Master's thesis defense: Isolated j-invariants arising from the modular curve X_0(n)* <br/> Wake Forest University, 4/11/25
+- *Benedict Freedman award reception: Quandle constructions and examples* <br/> Occidental College, 5/1/23
+- *Senior honors thesis: The fundamental group and Van Kampen Theorem* <br/> Occidental College, 3/22/23
+- *Complementation of subquandles: An introduction to undergraduate math research* <br/> Occidental College, 2/10/23
 
 
 
