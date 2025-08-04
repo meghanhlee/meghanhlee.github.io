@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-#### Research papers:
+#### Research papers
 
 2. *Isolated j-invariants arising from the modular curve X_0(n).* <br/> [(arXiv)](https://doi.org/10.48550/arXiv.2507.19462) [(Magma code)](https://github.com/meghanhlee/NonIsolated)
 
