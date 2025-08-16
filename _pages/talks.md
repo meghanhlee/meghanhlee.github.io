@@ -12,7 +12,7 @@ nav_order: 6
 - **LMFDB, Computation, and Number Theory (LuCaNT) 2025** <br/> Providence, RI (7/7/25-7/11/25) <br/> *An algorithm for isolated j-invariants arising from the modular curve X_0(n)* - Lightning talk <br/> Institute for Computational and Experimental Mathematics (ICERM)
 - **Joint Math Meetings (JMM) 2025** <br/> Seattle, WA (1/8/25-1/11/25) <br/> *An algorithm for isolated points on X_0(n)* - Talk <br/> AMS Contributed Paper Session on Number Theory and Field Theory
 - **Southern California Number Theory Day 2024** <br/> Irvine, CA (10/19/24) <br/> *An algorithm for isolated points on X_0(n)* - Lightning talk <br/> University of California, Irvine
-- **Palmetto Number Theory Series (PANTS) XXXVIII** <br/> Winston-Salem, NC (9/21/24) <br/> *An algorithm for isolated points on X_0(n)* - Talk <br/> Wake Forest University
+- **Palmetto Number Theory Series (PANTS) XXXVIII** <br/> Winston-Salem, NC (9/21/24-9/22/24) <br/> *An algorithm for isolated points on X_0(n)* - Talk <br/> Wake Forest University
 - **25th Nebraska Conference for Undergraduate Women in Mathematics (NCUWM)** <br/> Lincoln, NE (1/21/23) <br/> *Complementation of subquandles* - Talk <br/> University of Nebraska-Lincoln
 - **Joint Math Meetings (JMM) 2023** <br/> Boston, MA (1/4/23-1/7/23) <br/> *Complementation of subquandles* - Poster <br/> Pi Mu Epsilon Undergraduate Poster Session
 - **Kansas State University REU Closing Conference** <br/> Manhattan, KS (8/5/22) <br/> *Subquandle lattices* - Talk <br/> Kansas State University
