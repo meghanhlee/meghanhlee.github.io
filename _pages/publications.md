@@ -7,7 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-#### Research papers
+#### Research projects
+
+3. *The exceptional set in Cassels's theorem on small cyclotomic integers*, with Jitendra Bajpai, Srijan Das, Kiran Kedlaya, Nam Le, Antoine Leudière, and Jorge Mello. In preparation.
 
 2. *Isolated j-invariants arising from the modular curve X_0(n)*, preprint. <br/> [(arXiv)](https://doi.org/10.48550/arXiv.2507.19462) [(Magma code)](https://github.com/meghanhlee/NonIsolated)
 
