@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 cv_pdf: example_pdf.pdf # you can also use external links here
 description: Last updated August 2025.
-toc:
-  sidebar: left
 ---
 
 <a href="/assets/pdf/MeghanCV.pdf" target="_blank">Open PDF to see all pages</a>
