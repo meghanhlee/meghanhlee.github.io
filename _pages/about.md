@@ -9,6 +9,7 @@ profile:
   image: ucsb id photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>South Hall 6432S</p>
     <p>UC Santa Barbara</p>
     <p>Santa Barbara, CA 93106</p>
 
