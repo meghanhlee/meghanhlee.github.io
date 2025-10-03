@@ -2,10 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Here is a list of classes I have helped with, and students I have mentored, at Wake Forest University and Occidental College.
+description: Here is a list of classes I've helped with and students I've mentored, at UC Santa Barbara, Wake Forest University, and Occidental College.
 nav: true
 nav_order: 5
 ---
+
+**UC Santa Barbara** 
+Teaching Assistant
+- Math 34A: Calculus for Social and Life Sciences (Fall 2025) 
 
 **Wake Forest University** 
 
