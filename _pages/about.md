@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: (she/her/hers) <a href='#'>meghanlee@ucsb.edu</a>
+subtitle: (she/her/hers) <a href='#'>meghanlee@ucsb.edu</a> <p>Here is [my CV](https://drive.google.com/file/d/1DLgpD0C1RAOWJBlkP_xhnSw9TJVh2Raq/view?usp=sharing)! (Updated August 2025)</p>
 
 profile:
   align: right
