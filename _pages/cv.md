@@ -2,8 +2,8 @@
 layout: cv
 permalink: /cv/
 title: cv
-published: true
-nav: true
+published: false
+nav: false
 nav_order: 2
 cv_pdf: example_pdf.pdf # you can also use external links here
 description: Last updated August 2025.
