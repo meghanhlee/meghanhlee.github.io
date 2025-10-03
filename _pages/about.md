@@ -6,7 +6,7 @@ subtitle: (she/her/hers) <a href='#'>meghanlee@ucsb.edu</a>
 
 profile:
   align: right
-  image: ucsb id photo.jpg
+  image: assets/img/ucsb id photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>South Hall 6432S</p>
@@ -21,4 +21,4 @@ In Spring 2025, I graduated from the master's program at Wake Forest University,
 
 In Spring 2023, I graduated cum laude from Occidental College with a BA in Mathematics and with math department honors, for which I wrote a capstone expository paper about the Van Kampen Theorem advised by [Don Lawrence](https://www.oxy.edu/academics/faculty/don-lawrence). In Summer 2022, I was advised by [David Yetter](https://www.math.ksu.edu/~dyetter/) at Kansas State University's NSF-funded REU on a research project about quandles, a complete knot invariant. We studied subquandles via orbit decompositions and subquandle lattices. I received the [Benedict Freedman Prize for Mathematical Promise](https://www.oxy.edu/academics/areas-study/mathematics/students/awards/benedict-freedman-prize-mathematical-promise) in May 2023 — a profile from my time at Occidental can be found [here](https://www.oxy.edu/academics/areas-study/mathematics/meet-our-majors#Meghan).
 
-I'm the 2025-2027 Student Column editor for the monthly Association for Women in Mathematics (AWM) [newsletter](https://awm-math.org/publications/newsletter/), which accepts submissions covering anything related to the student experience in mathematics, ranging from personal math journeys to advice for other students. If you're an undergraduate or graduate student and are interested in contributing to a future issue, please contact me!
+I'm the 2025-2027 Student Column editor for the monthly Association for Women in Mathematics (AWM) [newsletter](https://awm-math.org/publications/newsletter/), which accepts submissions covering anything related to the student experience in mathematics, ranging from stories about personal math journeys to advice for other students in the field. If you're an undergraduate or graduate student and are interested in contributing to a future issue, please contact me!
