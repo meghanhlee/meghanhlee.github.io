@@ -6,7 +6,7 @@ subtitle: (she/her/hers) <a href='#'>meghanlee@ucsb.edu</a> <p>Here is [my CV](h
 
 profile:
   align: right
-  image: assets/img/ucsb id photo.jpg
+  image: id_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>South Hall 6432S</p>
