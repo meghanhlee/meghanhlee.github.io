@@ -8,6 +8,7 @@ nav_order: 5
 ---
 
 **UC Santa Barbara** 
+
 Teaching Assistant
 - Math 34A: Calculus for Social and Life Sciences (Fall 2025) 
 
