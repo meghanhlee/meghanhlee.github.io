@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Here is a list of classes I&#39;ve helped with and students I&#39;ve mentored, at UC Santa Barbara, Wake Forest University, and Occidental College.",
+          description: "Here is a list summarizing my teaching experiences at UC Santa Barbara, Wake Forest University, and Occidental College.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
