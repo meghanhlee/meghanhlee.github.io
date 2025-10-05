@@ -11,7 +11,8 @@ nav_order: 2
 
 <ol reversed>
   <li><i>The exceptional set in Cassels's theorem on small cyclotomic integers</i>, with Jitendra Bajpai, Srijan Das, Kiran Kedlaya, Nam Le, Antoine Leudière, and Jorge Mello. In preparation.</li>
-  <li><i>Isolated j-invariants arising from the modular curve X_0(n)</i>, preprint. <br/><a href="https://doi.org/10.48550/arXiv.2507.19462">(arXiv)</a> <a href="https://github.com/meghanhlee/NonIsolated">(Magma code)</a></li>
+  <li><i>Isolated j-invariants arising from the modular curve X_0(n)</i>, preprint.
+    <br/><a href="https://doi.org/10.48550/arXiv.2507.19462">(arXiv)</a> <a href="https://github.com/meghanhlee/NonIsolated">(Magma code)</a></li>
   <li><i>Complementation of subquandles</i>, with Kieran Amsberry, August Bergquist, Thomas Horstkamp, and David Yetter. Involve 18 (2025), no. 3, 417--435. <br/><a href="https://msp.org/involve/2025/18-3/involve-v18-n3-p03-s.pdf">(journal)</a>  <a href="https://arxiv.org/abs/2304.09747">(arXiv)</a></li>
 </ol>
 
