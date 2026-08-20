@@ -10,7 +10,12 @@ nav_order: 5
 **UC Santa Barbara** 
 
 *Teaching Assistant*
-- Math 34A: Calculus for Social and Life Sciences (Fall 2025) 
+- Math 2A: Calculus with Algebra and Trigonometry (Fall 2026)
+- Math 34B: Calculus for Social and Life Sciences II (Winter 2026, Spring 2026)
+- Math 34A: Calculus for Social and Life Sciences (Summer 2026, Fall 2025)
+
+*Mentorship*
+- Spring 2026: Skye Prince for the UCSB Directed Reading Program [(poster)](https://github.com/acikek/drp-2026/blob/main/poster.pdf) [(repo)](https://github.com/acikek/drp-2026)
 
 **Wake Forest University** 
 
