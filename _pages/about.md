@@ -14,7 +14,7 @@ profile:
 
 ---
 
-Here is [my CV](https://drive.google.com/file/d/1DLgpD0C1RAOWJBlkP_xhnSw9TJVh2Raq/view?usp=sharing)! (Updated October 2025)
+Here is [my CV](https://drive.google.com/file/d/1DLgpD0C1RAOWJBlkP_xhnSw9TJVh2Raq/view?usp=sharing)! (Updated September 2026)
 
 My name is Meghan and I am a first-year PhD student in Mathematics at UC Santa Barbara, where I am supported by the UC Eugene Cota-Robles Fellowship. My research interests are in arithmetic geometry and number theory. Other long-term interests of mine are in low-dimensional topology and computational algebra.
 
