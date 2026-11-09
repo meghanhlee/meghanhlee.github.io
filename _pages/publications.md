@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description:
+description: ""
 nav: true
 nav_order: 2
 ---
@@ -21,6 +21,6 @@ nav_order: 2
 
 #### Thesis work
 
-*Isolated j-invariants arising from the modular curve X_0(n),* Wake Forest University master's thesis, 2025. <br/> [(ProQuest)](https://www.proquest.com/docview/3223494656?accountid=14868&parentSessionId=G4R5cPXuhaYE8qwnqXnthShGXl9GcLdwBr5K%2BF0LwCs%3D&sourcetype=Dissertations%20&%20Theses)
+<i>Isolated j-invariants arising from the modular curve X_0(n),</i> Wake Forest University master's thesis, 2025. <br/> [(ProQuest)](https://www.proquest.com/docview/3223494656?accountid=14868&parentSessionId=G4R5cPXuhaYE8qwnqXnthShGXl9GcLdwBr5K%2BF0LwCs%3D&sourcetype=Dissertations%20&%20Theses)
 
-*The fundamental group and Van Kampen Theorem,* Occidental College honors senior thesis, 2023.
+<i>The fundamental group and Van Kampen Theorem,</i> Occidental College honors senior thesis, 2023.
