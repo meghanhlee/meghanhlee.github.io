@@ -10,7 +10,7 @@ nav_order: 2
 #### Research projects
 
 <ol reversed>
-  <li><i>The exceptional set in Cassels's theorem on small cyclotomic integers</i>, with <a href="https://user.math.uni-kiel.de/~jitendra/">Jitendra Bajpai</a>, <a href="https://sites.google.com/view/srijans-homepage/home">Srijan Das</a>, <a href="https://kskedlaya.org/">Kiran Kedlaya</a>, <a href="https://hoainam-le.github.io/">Nam Le</a>, <a href="https://cspages.ucalgary.ca/~antoine.leudiere1/">Antoine Leudière</a>, and <a href="https://www.jorgemello.org/">Jorge Mello</a>, to appear in J. Reine Angew. Math. [Crelle's Journal]
+  <li><i>The exceptional set in Cassels's theorem on small cyclotomic integers</i>, with <a href="https://user.math.uni-kiel.de/~jitendra/">Jitendra Bajpai</a>, <a href="https://sites.google.com/view/srijans-homepage/home">Srijan Das</a>, <a href="https://kskedlaya.org/">Kiran Kedlaya</a>, <a href="https://hoainam-le.github.io/">Nam Le</a>, <a href="https://cspages.ucalgary.ca/~antoine.leudiere1/">Antoine Leudière</a>, and <a href="https://www.jorgemello.org/">Jorge Mello</a>, to appear in J. Reine Angew. Math. (Crelle's Journal)
   <br/><a href="https://doi.org/10.48550/arXiv.2510.20435">(arXiv)</a> <a href="https://github.com/castle-gray-rnt6/cassels">(code)</a></li>
   
   <li><i>Isolated j-invariants arising from the modular curve X_0(n)</i>. Res. Number Theory <b>12</b> (2026), no. 4, 104--130. <br/>
