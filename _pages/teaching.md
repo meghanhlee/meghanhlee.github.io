@@ -7,6 +7,7 @@ nav: true
 nav_order: 5
 ---
 
+<h2>Teaching</h2>
 **UC Santa Barbara** 
 - Math 4A: Linear Algebra with Applications (Winter 2027), TA
 - Math 2A: Calculus with Algebra and Trigonometry (Fall 2026), TA
@@ -32,6 +33,6 @@ nav_order: 5
 - Math 310: Real Analysis (Fall 2022), Grader
 - Math 210: Discrete Math (Spring 2022), Grader
 
-<h3>Mentorship</h3>
-- Skye Prince, directed reading of Rational Points on Elliptic Curves Ch. 1-3 (Silverman and Tate) and an intro to SageMath (Spring 2026, UCSB Directed Reading Program) [(poster)](https://github.com/acikek/drp-2026/blob/main/poster.pdf) [(repo)](https://github.com/acikek/drp-2026)
+<h2>Mentorship</h2>
+- Skye Prince, directed reading of Rational Points on Elliptic Curves Ch. 1-3 (Silverman and Tate) and an intro to SageMath (Spring 2026, UCSB Directed Reading Program) <a href="https://github.com/acikek/drp-2026/blob/main/poster.pdf">(poster)</a> <a href="https://github.com/acikek/drp-2026">(repo)</a>
 - Bella Coughlin and Anita Xu, project on tilings and an intro to proof-writing (Spring 2024, Math 191: Research Explorations in Mathematics)
